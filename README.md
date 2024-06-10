@@ -14,4 +14,6 @@ step 3: After clicking on the Project from Version Control a pop-up screen will 
 
 
 ste 4: Then at last paste the link in the URL and choose your Directory. Click on the Clone button and you are done.<br/><br/>
+![Clone4](https://github.com/sakshi-gaikar/Android-QUIZ-App/assets/167235281/ff1ed007-3d62-4e8a-a85f-777cc5ef0539)
+
 <br/><br/>
