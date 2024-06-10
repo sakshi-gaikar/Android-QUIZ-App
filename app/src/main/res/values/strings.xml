@@ -1,0 +1,84 @@
+<resources>
+    <string name="score">0/10 score</string>
+    <string name="que_no">1/10 Question</string>
+    <string name="app_name">quiz</string>
+
+    <string name="que1">Who is founder of Microsoft?</string>
+    <string name="que1_A">C.V.Raman</string>
+    <string name="que1_B">Steve Henry</string>
+    <string name="que1_C">Andrew Wilson</string>
+    <string name="que1_D">Bill Gates</string>
+    <string name="ans_1">Bill Gates</string>
+
+    <string name="que2">Who is founder of Oracle?</string>
+    <string name="que2_A">Christ Lamb</string>
+    <string name="que2_B">Larry Ellison</string>
+    <string name="que2_C">James Carter</string>
+    <string name="que2_D">Henry Smith</string>
+    <string name="ans_2">Larry Ellison</string>
+
+    <string name="que3">Who invented the mouse?</string>
+    <string name="que3_A">Charles Babbage</string>
+    <string name="que3_B">Douglas Engelbart</string>
+    <string name="que3_C">Bill Gates</string>
+    <string name="que3_D">Martin Cooper</string>
+    <string name="ans_3">Douglas Engelbart</string>
+
+    <string name="que4">Who invented c programming language?</string>
+    <string name="que4_A">James Gosling</string>
+    <string name="que4_B">Dennis Ritchie</string>
+    <string name="que4_C">Bjarne Stroustrup</string>
+    <string name="que4_D">Walter Bright</string>
+    <string name="ans_4">Dennis Ritchie</string>
+
+    <string name="que5">who created PHP Scripting language?</string>
+    <string name="que5_A">Ken Pike</string>
+    <string name="que5_B">Larry Wall</string>
+    <string name="que5_C">Rasmus Lerdorf</string>
+    <string name="que5_D">Henry Smith</string>
+    <string name="ans_5">Rasmus Lerdorf</string>
+
+
+    <string name="que6">who is the creator of javascript?</string>
+    <string name="que6_A">Rich Hickey</string>
+    <string name="que6_B">John McCarthy</string>
+    <string name="que6_C">Rasmus Lerdorf</string>
+    <string name="que6_D">Brendan Eich</string>
+    <string name="ans_6">Brendan Eich</string>
+
+
+    <string name="que7">who invented java programming language?</string>
+    <string name="que7_A">friedrich.L.Bauer</string>
+    <string name="que7_B">James Gosling</string>
+    <string name="que7_C">Rasmus Lerdorf</string>
+    <string name="que7_D">Brendan Eich</string>
+    <string name="ans_7">James Gosling</string>
+
+
+    <string name="que8">who created Perl programing language?</string>
+    <string name="que8_A">Martin Odersky</string>
+    <string name="que8_B">Larry Wall</string>
+    <string name="que8_C">Alain Colmerauer</string>
+    <string name="que8_D">Grace Hopper</string>
+    <string name="ans_8">Larry Wall</string>
+
+
+    <string name="que9">who is the creator of Pyhton?</string>
+    <string name="que9_A">Don Syme</string>
+    <string name="que9_B">Larry Wall</string>
+    <string name="que9_C">Rasmus Lerdorf</string>
+    <string name="que9_D">Guido Van Rossum</string>
+    <string name="ans_9">Guido Van Rossum</string>
+
+
+    <string name="que10">Inventor of famous C++ programming language is ____ ?</string>
+    <string name="que10_A">Ken Thompson</string>
+    <string name="que10_B">Bjarne Stroustrup</string>
+    <string name="que10_C">Rasmus Lerdorf</string>
+    <string name="que10_D">Rob Pike</string>
+    <string name="ans_10">Bjarne Stroustrup</string>
+    <string name="correctoption">correctoption</string>
+    <string name="selectedoption">selectedOption</string>
+
+
+</resources>
